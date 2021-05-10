@@ -1,0 +1,15 @@
+{
+  "appSecurity": "dsauth",
+  "appWhiteListIP": "allips",
+  "dsTokenRequired": true,
+  "bizArea": "Operations",
+  "subjectArea": "Launch_Execution",
+  "bizSubjectAreaMap": {
+    "Operations": [
+      "Launch_Execution"
+    ]   
+  },
+  "version": "v2.0",
+  "appName": "db-ops-reporting",
+  "secretKey": "DataBRows$rKey12"
+}
